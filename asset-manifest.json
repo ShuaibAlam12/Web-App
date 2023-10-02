@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Web-App/static/css/main.f05fc394.css",
+    "main.js": "/Web-App/static/js/main.64684814.js",
+    "static/media/Wedding.jpg": "/Web-App/static/media/Wedding.516db91c0f1b2415d06d.jpg",
+    "static/media/Videoed.jpg": "/Web-App/static/media/Videoed.ec8f90051155ce8a5d7c.jpg",
+    "static/media/RealEs.jpg": "/Web-App/static/media/RealEs.25bde965a73ff6fcf357.jpg",
+    "static/media/Filmmaking.jpg": "/Web-App/static/media/Filmmaking.d836bae369f140e0fc9d.jpg",
+    "static/media/img4.jpg": "/Web-App/static/media/img4.aa019c1f78a4d01f6e90.jpg",
+    "static/media/Webdev.jpg": "/Web-App/static/media/Webdev.84437258534c0cde5bc4.jpg",
+    "static/media/img3.jpg": "/Web-App/static/media/img3.2c2bb95a062645f6356e.jpg",
+    "static/media/Content.jpg": "/Web-App/static/media/Content.00cf9ca19a3f6130089b.jpg",
+    "index.html": "/Web-App/index.html",
+    "main.f05fc394.css.map": "/Web-App/static/css/main.f05fc394.css.map",
+    "main.64684814.js.map": "/Web-App/static/js/main.64684814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05fc394.css",
+    "static/js/main.64684814.js"
+  ]
+}
